@@ -1,0 +1,10 @@
+{
+	"files.associations": {
+		"ios": "cpp",
+		"xutility": "cpp",
+		"system_error": "cpp",
+		"xtr1common": "cpp",
+		"vector": "cpp",
+		"ostream": "cpp"
+	}
+}
